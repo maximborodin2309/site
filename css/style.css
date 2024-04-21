@@ -1,0 +1,184 @@
+.header{
+	background: #7D1C1C;;
+}
+.container{
+	margin: 0 auto;
+	width: 1200px;
+}
+.container_header{
+	display: flex;
+	padding: 36px 0;
+	align-items: center;
+}
+.nav_list{
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	width: 600px;
+}
+.nav_link{
+	color: #FFF;
+	font-family: Oswald;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+}
+.header_title{
+	color: #FFF;
+	font-family: Akaya Telivigala;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-right: auto;
+	margin-left: 10px;
+}
+.logo{
+	width: 43px;
+	height: 43px;
+}
+.hero-block
+{
+	background: #2C2C2C;
+}
+.hero-block_title
+{
+	color :red;
+	font-size: 60px;
+	font-weight: 600;
+}
+.hero-block_btn
+{
+	width: 600px;
+	height: 50px;
+	background: #CC460A;
+	color :red;
+	font-size: 70px;
+	font-weight: 500;
+}
+.сontainer_hero-block
+{
+	display: flex;
+}
+.header{
+	background: #7D1C1C;;
+}
+.container{
+	margin: 0 auto;
+	width: 1200px;
+}
+.container_header{
+	display: flex;
+	padding: 36px 0;
+	align-items: center;
+}
+.nav_list{
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	width: 600px;
+}
+.nav_link{
+	color: #FFF;
+	font-family: Oswald;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-decoration: none;
+}
+.header_title{
+	color: #FFF;
+	font-family: Akaya Telivigala;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-right: auto;
+	margin-left: 10px;
+}
+.logo{
+	width: 43px;
+	height: 43px;
+}
+.hero-block
+{
+	background: #2C2C2C;
+}
+.hero-block_title
+{
+	color :red;
+	font-size: 60px;
+	font-weight: 600;
+}
+.hero-block_btn
+{
+	width: 600px;
+	height: 50px;
+	background: #CC460A;
+	color :red;
+	font-size: 70px;
+	font-weight: 500;
+}
+.сontainer_hero-block
+{
+	display: flex;
+}
+.hero-block_content
+{
+	margin-top:90px;
+	margin-left: auto;
+	
+}
+
+.gallery__img {
+	width: 100%;
+
+}
+.gallery__item { 
+	margin: 10px;
+	width: 500px;
+}
+.gallery__list {
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: center; 
+	list-style: none;
+
+}
+.gallery__title {
+	text-align: center;
+}
+.gallery {
+	background-color: darkgray;
+}
+.video {
+	background-color: darkgray;
+}
+.about {
+	background-color: yellow;
+}
+.footer__list {
+	list-style: none;
+	display: flex;
+
+}
+.container__footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+
+}
+.footer__item {
+	margin-left: 30px;
+}
+.footer {
+background-color: purple ;
+}
+
+	
+
+
